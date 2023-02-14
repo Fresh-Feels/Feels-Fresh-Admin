@@ -1,0 +1,9 @@
+//Add Item
+export const ADD_MEAL_REQUEST = "ADD_MEAL_REQUEST";
+export const ADD_MEAL_SUCCESS = "ADD_MEAL_SUCCESS";
+export const ADD_MEAL_FAIL = "ADD_MEAL_FAIL";
+
+//Get All meals
+export const GET_ALL_MEALS_REQUEST = "GET_ALL_MEALS_REQUEST"
+export const GET_ALL_MEALS_SUCCESS = "GET_ALL_MEALS_SUCCESS"
+export const GET_ALL_MEALS_FAIL = "GET_ALL_MEALS_FAIL"
